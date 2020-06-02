@@ -19,7 +19,7 @@ type: page
 
 ## 联系我
 
-* email：gaohaoyang126@126.com
+* email：00v@163.com
 
 ## 关于本站
 
