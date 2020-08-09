@@ -3,7 +3,7 @@ layout: post
 title:  "拿下tian.lu"
 categories: domain
 tags:  域名 
-author: SnakeSon
+author: lzq
 ---
 
 * content
