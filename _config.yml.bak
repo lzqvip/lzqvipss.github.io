@@ -7,7 +7,7 @@
 
 # Site settings
 title: 强哥博客
-brief-intro: 米农and运维狗
+brief-intro: Android and Python Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lzqvip.github.io" # the base hostname & protocol for your site
 
